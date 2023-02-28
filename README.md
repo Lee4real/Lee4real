@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lee4real
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning web developpment\cyber security\Linux
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine learning\Deep learning
 
 - 📫 How to reach me houbide.ahmed@gmail.com
 
