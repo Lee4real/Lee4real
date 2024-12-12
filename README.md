@@ -1,4 +1,17 @@
-Hi 👋 My name is Med Houbid ===========================  AI/ML & Software Engineer -------------------------  A highly skilled AI & Software Engineer with a strong interest in developing machine learning models, software solutions, and AI-driven systems. Proficient in Python and Java, with hands-on expertise in frameworks like TensorFlow, PyTorch, and cloud platforms like Azure.  * 🌍  I'm based in Mohammedia * 🖥️  See my portfolio at [medhoubid.me](http://www.medhoubid.me) * ✉️  You can contact me at [medhoubid@gmail.com](mailto:medhoubid@gmail.com) * 🧠  I'm learning about Agentic AI and AI agents framework * 🤝  I'm open to collaborating on AI/ML and Software projects * ⚡  I admire the simplicity
+Hi 👋 My name is Med Houbid 
+===========================  
+
+AI/ML & Software Engineer 
+-------------------------  
+
+A highly skilled AI & Software Engineer with a strong interest in developing machine learning models, software solutions, and AI-driven systems. Proficient in Python and Java, with hands-on expertise in frameworks like TensorFlow, PyTorch, and cloud platforms like Azure.  
+
+* 🌍  I'm based in Mohammedia
+* 🖥️  See my portfolio at [medhoubid.me](http://www.medhoubid.me)
+* ✉️  You can contact me at [medhoubid@gmail.com](mailto:medhoubid@gmail.com)
+* 🧠  I'm learning about Agentic AI and AI agents framework
+* 🤝  I'm open to collaborating on AI/ML and Software projects
+* ⚡  I admire the simplicity
 
 ### Skills  
 
